@@ -1,0 +1,11 @@
+From,To,Distance
+A,B,12
+A,C,32
+A,D,80
+A,E,87
+B,C,99
+B,D,46
+B,E,43
+C,D,25
+C,E,87
+D,E,67
